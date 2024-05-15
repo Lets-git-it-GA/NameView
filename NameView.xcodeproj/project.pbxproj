@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0D4978642BF5408F00E0720F /* newJunsungView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D4978632BF5408F00E0720F /* newJunsungView.swift */; };
 		0DEC81CA2BF5315300D8DCDD /* NameViewApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DEC81C92BF5315300D8DCDD /* NameViewApp.swift */; };
 		0DEC81CC2BF5315300D8DCDD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DEC81CB2BF5315300D8DCDD /* ContentView.swift */; };
 		0DEC81CE2BF5315300D8DCDD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0DEC81CD2BF5315300D8DCDD /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0D4978632BF5408F00E0720F /* newJunsungView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = newJunsungView.swift; sourceTree = "<group>"; };
 		0DEC81C62BF5315300D8DCDD /* NameView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NameView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0DEC81C92BF5315300D8DCDD /* NameViewApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NameViewApp.swift; sourceTree = "<group>"; };
 		0DEC81CB2BF5315300D8DCDD /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				0DEC81C92BF5315300D8DCDD /* NameViewApp.swift */,
 				0DEC81CB2BF5315300D8DCDD /* ContentView.swift */,
+				0D4978632BF5408F00E0720F /* newJunsungView.swift */,
 				0DEC81CD2BF5315300D8DCDD /* Assets.xcassets */,
 				0DEC81CF2BF5315300D8DCDD /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0D4978642BF5408F00E0720F /* newJunsungView.swift in Sources */,
 				0DEC81CC2BF5315300D8DCDD /* ContentView.swift in Sources */,
 				0DEC81CA2BF5315300D8DCDD /* NameViewApp.swift in Sources */,
 			);
