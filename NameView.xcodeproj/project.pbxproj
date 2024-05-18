@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0D1418922BF54F0200C8336A /* BookaeJunsung.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D1418912BF54F0200C8336A /* BookaeJunsung.swift */; };
 		0D4978642BF5408F00E0720F /* newJunsungView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D4978632BF5408F00E0720F /* newJunsungView.swift */; };
 		0DEC81CA2BF5315300D8DCDD /* NameViewApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DEC81C92BF5315300D8DCDD /* NameViewApp.swift */; };
 		0DEC81CC2BF5315300D8DCDD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DEC81CB2BF5315300D8DCDD /* ContentView.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0D1418912BF54F0200C8336A /* BookaeJunsung.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookaeJunsung.swift; sourceTree = "<group>"; };
 		0D4978632BF5408F00E0720F /* newJunsungView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = newJunsungView.swift; sourceTree = "<group>"; };
 		0DEC81C62BF5315300D8DCDD /* NameView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NameView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0DEC81C92BF5315300D8DCDD /* NameViewApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NameViewApp.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 		0DEC81C82BF5315300D8DCDD /* NameView */ = {
 			isa = PBXGroup;
 			children = (
+				0D1418912BF54F0200C8336A /* BookaeJunsung.swift */,
 				0DEC81C92BF5315300D8DCDD /* NameViewApp.swift */,
 				0DEC81CB2BF5315300D8DCDD /* ContentView.swift */,
 				D9F602C02BF5EE1200B54343 /* ShiroView.swift */,
@@ -150,6 +153,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0D4978642BF5408F00E0720F /* newJunsungView.swift in Sources */,
+				0D1418922BF54F0200C8336A /* BookaeJunsung.swift in Sources */,
 				0DEC81CC2BF5315300D8DCDD /* ContentView.swift in Sources */,
 				892FCF3C2BF5EDDE00C5945F /* ReadyView.swift in Sources */,
 				D9F602C12BF5EE1200B54343 /* ShiroView.swift in Sources */,
